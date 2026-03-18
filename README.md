@@ -150,6 +150,6 @@ Feel free to open issues or submit pull requests.
 
 ## 📄 License
 
-*(Add your license here)*
+Is found in the LISENCE file
 
 ---
