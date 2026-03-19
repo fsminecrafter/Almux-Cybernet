@@ -139,14 +139,11 @@ This modular approach improves:
 
 ## 📷 Board Layout
 
-*(Insert PCB renders or photos here)*
+*(Insert random images here! :) )*
 
 ---
 
 ## 🤝 Contributing
-
-Contributions, ideas, and feedback are welcome.
-Feel free to open issues or submit pull requests.
 
 ---
 
