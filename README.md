@@ -43,9 +43,9 @@ A dual-processor System-on-Board (SoB) designed for high-performance embedded ap
 
 Each RP2350B includes:
 
-* **1 Mbit external SRAM**
-* **4096 Kbits of internal SRAM**
-* **1 Gbit external flash storage**
+* **1 Mbit external SRAM** (125kb)
+* **4096 Kbits of internal SRAM** (512kb)
+* **1 Gbit external flash storage** (125MB)
 
 ---
 
