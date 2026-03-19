@@ -8,6 +8,8 @@ A dual-processor System-on-Board (SoB) designed for high-performance embedded ap
 
 **Almux Cybernet** is built around **two RP2350B processors**, enabling separation of workloads for improved performance and modularity. The board integrates networking, graphics output, USB capabilities, and an onboard I/O manager for streamlined development and programming.
 
+[RP2350B Datasheet](https://pip-assets.raspberrypi.com/categories/1214-rp2350/documents/RP-008373-DS-2-rp2350-datasheet.pdf?disposition=inline)
+
 ---
 
 ## 🧠 Architecture
